@@ -1,0 +1,13 @@
+#4
+luku1=float(input("ilmoita ensimmäinen kokonaisluku:"))
+luku2=float(input("ilmoita toinen kokonaisluku:"))
+luku3=float(input("ilmoita kolmas kokonaisluku:"))
+Summa=(luku1+luku2+luku3)
+print("lukujen summa:")
+print(Summa)
+Tulo=(luku1*luku2*luku3)
+print("lukujen tulo:")
+print(Tulo)
+Keskiarvo=((luku1+luku2+luku3)/3)
+print("lukujen keskiarvo:")
+print(Keskiarvo)
